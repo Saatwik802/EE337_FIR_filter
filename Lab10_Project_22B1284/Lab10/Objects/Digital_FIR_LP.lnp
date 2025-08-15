@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\Digital_FIR_LP" 
+PRINT(".\Listings\Digital_FIR_LP.m51") RAMSIZE(256) 
