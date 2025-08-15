@@ -14,7 +14,7 @@ The complete workflow involved:
 ---
 
 ## Features  
-- **8-tap FIR filter** with pre-computed coefficients stored in microcontroller memory.  
+- **8-tap FIR filter** with pre-computed coefficients (using python) stored in microcontroller memory.  
 - **2000 Hz cutoff frequency** designed for low-pass behavior.  
 - **Python-based testing environment** for verification before hardware deployment.  
 - **Real-time filtering** using 8051 microcontroller on Pt-51 board.  
